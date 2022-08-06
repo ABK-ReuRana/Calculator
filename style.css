@@ -143,6 +143,7 @@ html {
 }
 .footer {
     float: right;
+    margin-right: 70px;
     color: #337a7a;
     font-size: large;
 }
